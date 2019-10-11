@@ -3,13 +3,13 @@
     {
       "name": "default-role",
       "resource_type": "iam_role",
-      "role_arn": "arn:aws:iam::635100884080:role/helloworld-dev",
+      "role_arn": "arn:aws:iam::507922848584:role/helloworld-dev",
       "role_name": "helloworld-dev"
     },
     {
       "name": "hello_world",
       "resource_type": "lambda_function",
-      "lambda_arn": "arn:aws:lambda:us-west-2:635100884080:function:helloworld-dev-hello_world"
+      "lambda_arn": "arn:aws:lambda:us-east-1:507922848584:function:helloworld-dev-hello_world"
     }
   ],
   "schema_version": "2.0",
